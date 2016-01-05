@@ -1,0 +1,54 @@
+{
+  "identify": "TYD-99-訴-460-20100512-1",
+  "court": {
+    "name": "臺灣桃園地方法院",
+    "code": "TYD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 99,
+  "word": "訴",
+  "number": "460",
+  "jcheck": "1",
+  "reason": "清償債務",
+  "content": "臺灣桃園地方法院民事裁定               99年度訴字第460號\n原      告  甲○○\n被      告  乙○○紀素月之繼.\n上列當事人間請求清償債務事件，本院裁定如下：\n    主  文\n本件應再開言詞辯論，並指定民國九十九年五月二十六日上午十\n一時四十分在本院民事第二法庭為言詞辯論期日。\n中    華    民    國    99    年    5     月    12    日\n                  民事第二庭  法  官  卓立婷\n上列正本證明與原本無異。\n本裁定不得抗告。\n中    華    民    國    99    年    5     月    13    日\n                              書記官  王素玲",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+      "卓立婷"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+      "甲○○"
+    ],
+    "defendants": [
+      "乙○○紀素月之繼."
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2010-05-12",
+  "created_at": "2016-01-05 12:41:15",
+  "updated_at": "2016-01-05 12:41:15"
+}

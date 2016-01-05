@@ -1,0 +1,54 @@
+{
+  "identify": "TPD-99-司票-5041-20100512-1",
+  "court": {
+    "name": "臺灣臺北地方法院",
+    "code": "TPD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 99,
+  "word": "司票",
+  "number": "5041",
+  "jcheck": "1",
+  "reason": "本票裁定",
+  "content": "臺灣臺北地方法院民事裁定            99年度司票字第5041號\n聲  請  人  丁○（台灣）商業銀行股份有限公司\n法定代理人  丙○○\n上列聲請人與相對人甲○○、乙○○間聲請本票裁定事件，聲請\n人應於收受本裁定之日起7 日內，補正下列事項，逾期即駁回其\n聲請，特此裁定。本裁定不得抗告。\n    應補正之事項：\n一、請補本票原本。\n中    華    民    國    99    年    5     月    12    日\n                  簡易庭司法事務官  林嘉怡",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+      "丁"
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+      "林嘉怡"
+    ]
+  },
+  "adjudged_at": "2010-05-12",
+  "created_at": "2016-01-05 12:18:48",
+  "updated_at": "2016-01-05 12:18:48"
+}

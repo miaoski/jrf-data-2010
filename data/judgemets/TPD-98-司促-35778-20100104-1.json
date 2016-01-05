@@ -1,0 +1,54 @@
+{
+  "identify": "TPD-98-司促-35778-20100104-1",
+  "court": {
+    "name": "臺灣臺北地方法院",
+    "code": "TPD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 98,
+  "word": "司促",
+  "number": "35778",
+  "jcheck": "1",
+  "reason": "支付命令",
+  "content": "臺灣臺北地方法院民事裁定           98年度司促字第35778號\n聲  請  人\n即債權人    僑鼎金屬科技有限公司\n法定代理人  甲○○\n上列聲請人與相對人凱群營造股份有限公司間聲請發支付命令事\n件，聲請人應於收受本裁定之日起7 日內，補正下列事項，逾期\n即駁回其聲請，特此裁定。\n    應補正之事項：\n一、請補正請求之利率（利息若未約定，得依法定利率5 ﹪）。\n中    華    民    國    99    年    1     月    4     日\n                  民事庭司法事務官  鄧仁誠",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+      "僑鼎金屬科技有限公司"
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+      "鄧仁誠"
+    ]
+  },
+  "adjudged_at": "2010-01-04",
+  "created_at": "2016-01-05 14:56:24",
+  "updated_at": "2016-01-05 14:56:24"
+}

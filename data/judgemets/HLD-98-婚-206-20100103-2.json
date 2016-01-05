@@ -1,0 +1,54 @@
+{
+  "identify": "HLD-98-婚-206-20100103-2",
+  "court": {
+    "name": "臺灣花蓮地方法院",
+    "code": "HLD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 98,
+  "word": "婚",
+  "number": "206",
+  "jcheck": "2",
+  "reason": "履行同居",
+  "content": "臺灣花蓮地方法院民事裁定               98年度婚字第206號\n原      告  乙○○\n被      告  甲○○\n上列原告與被告間乙○○請求履行同居事件，原告應於收受本裁\n定之日起5日內，補正下列事項，逾期即駁回其訴，特此裁定。\n應補正之事項：\n一、補繳審判費用新台幣3000元整。\n中    華    民    國    99    年    1     月    3     日\n                  家事法庭      法  官  沈士亮\n以上正本係照原本作成。\n如對本判決上訴，須於判決送達後20日之不變期間內，向本院提\n出上訴狀(應附繕本)。\n中    華    民    國    99    年    1     月    5     日\n                                書記官  陳景源",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+      "沈士亮"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+      "乙○○"
+    ],
+    "defendants": [
+      "甲○○"
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2010-01-03",
+  "created_at": "2016-01-05 14:33:20",
+  "updated_at": "2016-01-05 14:33:20"
+}

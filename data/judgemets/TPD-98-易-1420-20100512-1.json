@@ -1,0 +1,56 @@
+{
+  "identify": "TPD-98-易-1420-20100512-1",
+  "court": {
+    "name": "臺灣臺北地方法院",
+    "code": "TPD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 98,
+  "word": "易",
+  "number": "1420",
+  "jcheck": "1",
+  "reason": "詐欺",
+  "content": "臺灣臺北地方法院刑事裁定              98年度易字第1420號\n公  訴  人  臺灣臺北地方法院檢察署檢察官\n被      告  甲○○\n上列被告因詐欺案件，前經辯論終結，因尚有應行調查之處，乃\n再開本件辯論，爰為裁定。\n中    華    民    國    99    年    5     月    12    日\n              刑事第14庭審判長  法  官  吳冠霆\n                                法  官  李殷君\n                                法  官  陳琪媛\n以上正本證明與原本無異。\n不得抗告。\n                                書記官  陳豪達\n中    華    民    國    99    年    5     月    12    日",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+      "吳冠霆",
+      "李殷君",
+      "陳琪媛"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+      "陳豪達"
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+      "甲○○"
+    ],
+    "prosecutor_office": [
+      "臺灣臺北地方法院檢察署檢察官"
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2010-05-12",
+  "created_at": "2016-01-05 12:04:41",
+  "updated_at": "2016-01-05 12:04:41"
+}

@@ -1,0 +1,54 @@
+{
+  "identify": "TPD-97-審重訴-65-20100512-1",
+  "court": {
+    "name": "臺灣臺北地方法院",
+    "code": "TPD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 97,
+  "word": "審重訴",
+  "number": "65",
+  "jcheck": "1",
+  "reason": "侵權行為損害賠償",
+  "content": "臺灣臺北地方法院民事裁定            97年度審重訴字第65號\n原      告  甲○○    現於臺灣台北分監執行中\n被      告  乙○○\n上列當事人間請求侵權行為損害賠償事件，本院裁定如下：\n    主  文\n本件應再開言詞辯論。\n中    華    民    國    99    年    5     月    12    日\n                  民事第六庭    法  官  黃柄縉\n以上正本係照原本作成\n本件不得抗告\n中    華    民    國    99    年    5     月    12    日\n                                書記官  洪仕萱",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+      "黃柄縉"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+      "甲"
+    ],
+    "defendants": [
+      "乙○○"
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2010-05-12",
+  "created_at": "2016-01-05 12:14:05",
+  "updated_at": "2016-01-05 12:14:05"
+}

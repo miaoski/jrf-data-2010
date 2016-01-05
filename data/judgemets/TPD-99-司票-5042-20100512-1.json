@@ -1,0 +1,54 @@
+{
+  "identify": "TPD-99-司票-5042-20100512-1",
+  "court": {
+    "name": "臺灣臺北地方法院",
+    "code": "TPD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 99,
+  "word": "司票",
+  "number": "5042",
+  "jcheck": "1",
+  "reason": "本票裁定",
+  "content": "臺灣臺北地方法院民事裁定            99年度司票字第5042號\n聲  請  人  台北富邦商業銀行股份有限公司\n法定代理人  乙○○\n上列聲請人與相對人甲○○聲請本票裁定事件，未據繳納裁判費\n新臺幣1,000 元，茲限聲請人於收受本裁定送達5 日內補繳裁判\n費，逾期不補正，即駁回聲請人之聲請，特此裁定。\n中    華    民    國    99    年    5     月    12    日\n                  簡易庭司法事務官  林嘉怡",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+      "台北富邦商業銀行股份有限公司"
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+      "林嘉怡"
+    ]
+  },
+  "adjudged_at": "2010-05-12",
+  "created_at": "2016-01-05 12:18:12",
+  "updated_at": "2016-01-05 12:18:12"
+}

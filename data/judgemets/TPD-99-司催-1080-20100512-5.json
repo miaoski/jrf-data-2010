@@ -1,0 +1,54 @@
+{
+  "identify": "TPD-99-司催-1080-20100512-5",
+  "court": {
+    "name": "臺灣臺北地方法院",
+    "code": "TPD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 99,
+  "word": "司催",
+  "number": "1080",
+  "jcheck": "5",
+  "reason": "公示催告",
+  "content": "臺灣臺北地方法院民事裁定            99年度司催字第1080號\n聲  請  人  上海商業儲蓄銀行股份有限公司\n法定代理人  乙○○\n代  理  人  甲○○\n上列聲請人請求公示催告事件，聲請人應於收受本裁定之日起7\n日內，補正下列事項，逾期即駁回其聲請，特此裁定。\n本裁定不得抗告。\n    應補正之事項：\n一、請提出警察局報案遺失證明文件正本，內容須表明票據種類\n    、發票人、發票日、票面金額、受款人及到期日。\n中    華    民    國    99    年    5     月    12    日\n                  民事庭司法事務官  林嘉怡",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+      "上海商業儲蓄銀行股份有限公司"
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+      "林嘉怡"
+    ]
+  },
+  "adjudged_at": "2010-05-12",
+  "created_at": "2016-01-05 12:18:35",
+  "updated_at": "2016-01-05 12:18:35"
+}

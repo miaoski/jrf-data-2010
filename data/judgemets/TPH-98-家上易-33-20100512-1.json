@@ -1,0 +1,57 @@
+{
+  "identify": "TPH-98-家上易-33-20100512-1",
+  "court": {
+    "name": "臺灣高等法院",
+    "code": "TPH"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 98,
+  "word": "家上易",
+  "number": "33",
+  "jcheck": "1",
+  "reason": "給付贍養費等",
+  "content": "臺灣高等法院民事裁定                98年度家上易字第33號\n上  訴  人  甲○○\n訴訟代理人  李後政律師\n複代理人    呂立彥律師\n被上訴人    乙○○\n上列當事人間給付贍養費等事件，因事實尚有欠明瞭之處，應命\n再開言詞辯論，並指定於99年7月6日上午10時40分在本院第六法\n庭再行言詞辯論程序，特此裁定。\n中    華    民    國    99    年    5     月    12    日\n                      民事第七庭\n                        審判長法  官  鄭三源\n                              法  官  呂太郎\n                              法  官  魏麗娟\n正本係照原本作成。\n不得抗告。\n中    華    民    國    99    年    5    月    13    日\n                              書記官  廖月女",
+  "structure": {
+  },
+  "characters": {
+    "judges": [
+      "鄭三源",
+      "呂太郎",
+      "魏麗娟"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+      "李後政",
+      "呂立彥"
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2010-05-12",
+  "created_at": "2016-01-05 11:56:31",
+  "updated_at": "2016-01-05 11:56:31"
+}
