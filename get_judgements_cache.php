@@ -42,7 +42,7 @@ while ($dateBegin <= $dateEnd) {
 
     foreach ($courts as $court) {
         foreach ($court['divisions'] AS $division) {
-            $param = "&v_court={$court['code']}+" . urlencode($court['name']) . "&v_sys={$division['code']}&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword={$keyword}&sdate=" . date('Ymd', $dateBegin) . "&edate=" . date('Ymd', $dateNext) . "&page=1&searchkw={$keyword}&jmain=&cw=0";
+            $param = "&v_court={$court['code']}+" . urlencode($court['name']) . "&v_sys={$division['code']}&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword={$keyword}&sdate=" . date('Ymd', $dateBegin) . "&edate=" . date('Ymd', $dateBegin) . "&page=1&searchkw={$keyword}&jmain=&cw=0";
             $urlDecoded = urldecode($url . '?' . $param);
             $md5 = md5($urlDecoded);
             $cachedFile = $cachePath . '/list_' . $md5;
