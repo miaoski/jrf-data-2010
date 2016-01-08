@@ -52,25 +52,22 @@ while ($dateBegin <= $dateEnd) {
                 while (false === $listFetched) {
                     $curl = curl_init($url);
                     curl_setopt($curl, CURLOPT_REFERER, $url);
-                    // curl_setopt($curl, CURLOPT_PROXY, $proxy);
                     curl_setopt($curl, CURLOPT_FORBID_REUSE, true);
                     curl_setopt($curl, CURLOPT_POSTFIELDS, $param);
                     curl_setopt($curl, CURLOPT_COOKIESESSION, true);
                     curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
                     curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
                     curl_setopt($curl, CURLOPT_HEADER, 1);
+                    curl_setopt($curl, CURLOPT_PROXY, "http://127.0.0.1:9050/");
+                    curl_setopt($curl, CURLOPT_PROXYTYPE, 7);
+                    curl_setopt($curl, CURLOPT_HTTPPROXYTUNNEL, 1);
                     $response = curl_exec($curl);
                     $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
                     $header = substr($response, 0, $header_size);
                     $content = substr($response, $header_size);
                     if (empty($header) || false !== strpos($content, 'Object moved') || false !== strpos($header, 'Service Unavailable')) {
-                        if (++$blockCount >= 5) {
-                            error_log("blocked more than 5 times, die");
-                            exit();
-                        } else {
-                            error_log("block detected in list! sleep for 2 sec.");
-                            sleep(2);
-                        }
+                        error_log("block detected in list! sleep for 2 sec.");
+                        sleep(2);
                     } else {
                         $blockCount = 0;
                         error_log($header);
@@ -103,15 +100,17 @@ while ($dateBegin <= $dateEnd) {
                     if (!file_exists($cachedFile)) {
                         $curl = curl_init($case_url);
                         error_log("fetching case {$j}/{$count}");
-                        // curl_setopt($curl, CURLOPT_PROXY, $proxy);
                         curl_setopt($curl, CURLOPT_FORBID_REUSE, true);
-                        curl_setopt($curl, CURLOPT_VERBOSE, true);
+                        // curl_setopt($curl, CURLOPT_VERBOSE, true);
                         curl_setopt($curl, CURLOPT_POSTFIELDS, "id={$j}&{$param}");
                         curl_setopt($curl, CURLOPT_URL, $case_url);
                         curl_setopt($curl, CURLOPT_REFERER, 'http://jirs.judicial.gov.tw/FJUD/FJUDQRY02_1.aspx');
                         curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
                         curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
                         curl_setopt($curl, CURLOPT_HEADER, 1);
+                        curl_setopt($curl, CURLOPT_PROXY, "http://127.0.0.1:9050/");
+                        curl_setopt($curl, CURLOPT_PROXYTYPE, 7);
+                        curl_setopt($curl, CURLOPT_HTTPPROXYTUNNEL, 1);
                         $response = curl_exec($curl);
                         $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
                         $header = substr($response, 0, $header_size);
